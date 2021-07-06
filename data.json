@@ -1,0 +1,24 @@
+{
+    "NAME":"Girish Kumar",
+    "ABOUT_ME" : [
+        "I am Data Science Enthusiast and build websites on django","I have transformed my problem-solving skills to solve real world problems","I am keen to build a challenging career with honesty and loyalty by translating my experience, knowledge, skills and abilities into value for an organization."
+        ],
+        
+      
+    "LANGUAGES" : [
+            "C++",
+            "Python",
+            "HTML",
+            "CSS",
+            "JavaScript"
+    ],
+    "PROJECTS" : [
+
+                ["movie","Movie Recommendation System","Applied DataFrames of Pandas and Movielens Dataset to recommend movies on the basis of given movie"],
+                ["language", "Portfolio Website","Created a Portfolio Website which include technical skills and information about me"],
+                ["how_to_reg" ,"Basic Poll Application", "A public site that lets people view polls and vote in them. An admin site that lets you add, change, and delete polls." ],
+                ["face" ,"Face Recognition using KNN", " Applied K Nearest Neighbour classification algorithm in face recognition using opencv and HaarCascades CNN Model." ]
+            
+    ]
+    
+}
